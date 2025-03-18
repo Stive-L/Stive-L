@@ -6,3 +6,5 @@
 - 🔭 I'm currently Looking for an **Internship**
 
 - 📬 How to contact me : **zhuo-chan-stive.lee@efrei.net**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
