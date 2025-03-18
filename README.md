@@ -12,9 +12,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
-      </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stive-L&layout=donut"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
