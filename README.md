@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Stive  
-<small>with an i</small></h1>
+## Hi 👋, I'm Stive *with an i*
+
 <h3 align="center">A passionate learning developer from France</h3>
 
 - 👨‍💻 I do like **coding**
