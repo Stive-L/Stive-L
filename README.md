@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stive <span style="font-size: 0.8em; opacity: 0.6;">with an i</span></h1>
+<h1 align="center">Hi 👋, I'm Stive  &nbsp;&nbsp;&nbsp; <small>with an i</small></h1>
 <h3 align="center">A passionate learning developer from France</h3>
 
 - 👨‍💻 I do like **coding**
