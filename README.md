@@ -3,7 +3,7 @@
 
 - 🎓 I'm currently a **3rd-year Computer Engineering student** at **EFREI Paris**.
 
-- 🔭 I'm currently looking for an **internship in Software Development from November 4, 2025 to April 4, 2026**.
+- 🔭 I'm currently looking for an **internship in Software Development from November 2025 to April 2026**.
 
 - 📬 How to contact me : **zhuo-chan-stive.lee@efrei.net**
 
