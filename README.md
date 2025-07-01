@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stive </h1>
 <h3 align="center">A passionate learning engineer from France</h3>
 
-- 🎓 I'm currently a **3rd-year Computer Engineering student** at **EFREI Paris**.
+- 🎓 I'm currently a **4th-year Computer Engineering student** at **EFREI Paris**.
 
 - 🔭 I'm currently looking for an **internship in Software Development from November 2025 to April 2026**.
 
