@@ -7,7 +7,7 @@
 
 - 📬 How to contact me : **zhuo-chan-stive.lee@efrei.net**
 
-<h4> 🚀 &nbsp;Some Languages I Have Used Or Learned</h4>
+<h4> 🚀 &nbsp;Some Languages/Frameworks I Have Used Or Learned</h4>
 
 <table>
   <tr>
